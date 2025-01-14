@@ -1,8 +1,8 @@
-👋 Hi, I’m Mengyang (Frank) Liu
-👀 I’m interested in data science and machine learning
-🌱 I’m currently studying at UofT in the MIE program
-📫 My Email: frankmengyang.liu@mail.utoronto.ca
-📚 HBSc. majored in Statistics and Actuarial Science at UofT
+👋 Hi, I’m Mengyang (Frank) Liu  
+👀 I’m interested in data science and machine learning  
+🌱 I’m currently studying at UofT in the MIE program  
+📫 My Email: frankmengyang.liu@mail.utoronto.ca  
+📚 HBSc. majored in Statistics and Actuarial Science at UofT  
 
 
 <!---
